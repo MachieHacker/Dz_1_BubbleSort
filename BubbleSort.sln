@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BubbleSort", "BubbleSort\BubbleSort.fsproj", "{4F67F155-6A73-4B38-9758-83FF440E0A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUsing", "FUsing\FUsing.csproj", "{52C195B9-F983-476E-BF76-19AA248B3C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F67F155-6A73-4B38-9758-83FF440E0A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F67F155-6A73-4B38-9758-83FF440E0A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F67F155-6A73-4B38-9758-83FF440E0A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F67F155-6A73-4B38-9758-83FF440E0A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C195B9-F983-476E-BF76-19AA248B3C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C195B9-F983-476E-BF76-19AA248B3C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C195B9-F983-476E-BF76-19AA248B3C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C195B9-F983-476E-BF76-19AA248B3C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
